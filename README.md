@@ -1,4 +1,4 @@
-# Hi, I'm Mohan M 👋
+# Hi, I'm Mohan M 
 
 **AWS & DevOps Engineer** based in Bengaluru, Karnataka
 
@@ -9,7 +9,7 @@ using AWS, Terraform, Jenkins, Docker, Kubernetes, and GitHub Actions.
 
 ### 🛠️ Skills
 
-**Cloud & AWS**
+**📌Cloud & AWS**
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![EC2](https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white)
@@ -18,7 +18,7 @@ using AWS, Terraform, Jenkins, Docker, Kubernetes, and GitHub Actions.
 ![Route53](https://img.shields.io/badge/Route_53-8C4FFF?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![VPC](https://img.shields.io/badge/VPC-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 
-**DevOps Tools**
+**📌DevOps Tools**
 
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
@@ -28,12 +28,12 @@ using AWS, Terraform, Jenkins, Docker, Kubernetes, and GitHub Actions.
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-**Monitoring**
+**📌Monitoring**
 
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 
-**Scripting & OS**
+**📌Scripting & OS**
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
@@ -41,24 +41,24 @@ using AWS, Terraform, Jenkins, Docker, Kubernetes, and GitHub Actions.
 
 ---
 
-### 🚀 Projects
+### 🏗️ Projects
 
-**🏗️ Highly Available 3-Tier Architecture on AWS**
+**📌 Highly Available 3-Tier Architecture on AWS**
 Production-grade AWS architecture across 2 AZs — VPC, ALB, Auto Scaling,
 CloudFront, Docker, Nginx, MariaDB, 5-layer Security Group chaining,
 end-to-end HTTPS, 50% cost reduction via Gateway VPC Endpoint.
 
-**🔁 End-to-End CI/CD Pipeline with Monitoring**
+**📌 End-to-End CI/CD Pipeline with Monitoring**
 Fully automated Jenkins pipeline — Maven build, Docker containerization,
 Kubernetes deployment, Prometheus + Grafana monitoring.
 Triggered automatically via GitHub webhook. Deployment under 5 minutes.
 
-**🔧 Infrastructure Provisioning with Terraform IaC**
+**📌 Infrastructure Provisioning with Terraform IaC**
 Multi-AZ AWS VPC provisioned entirely through Terraform —
 public/private subnet isolation, NAT Gateway, Internet Gateway,
 EC2 with Nginx auto-configured via User Data.
 
-**⚡ GitHub Actions CI/CD Pipeline**
+**📌 GitHub Actions CI/CD Pipeline**
 3-stage automated pipeline (test → build → deploy) using GitHub Actions,
 Docker, and AWS EC2. Zero-touch deployment on every git push.
 Pipeline completes in approximately 1 minute.
