@@ -7,7 +7,7 @@ using AWS, Terraform, Jenkins, Docker, Kubernetes, and GitHub Actions.
 
 ---
 
-### 🛠️ Skills
+### 🛠️ Tech Stack
 
 **Cloud & AWS**
 
