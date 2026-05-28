@@ -1,6 +1,6 @@
 # Hi, I'm Mohan M 
 
-**AWS & DevOps Engineer** based in Bengaluru, Karnataka
+***AWS & DevOps Engineer*** based in Bengaluru, Karnataka
 
 I build production-grade cloud infrastructure and CI/CD automation
 using AWS, Terraform, Jenkins, Docker, Kubernetes, and GitHub Actions.
