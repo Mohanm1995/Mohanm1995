@@ -58,11 +58,6 @@ Multi-AZ AWS VPC provisioned entirely through Terraform —
 public/private subnet isolation, NAT Gateway, Internet Gateway,
 EC2 with Nginx auto-configured via User Data.
 
-###**📌 GitHub Actions CI/CD Pipeline**
-##3-stage automated pipeline (test → build → deploy) using GitHub Actions,
-##Docker, and AWS EC2. Zero-touch deployment on every git push.
-##Pipeline completes in approximately 1 minute.
-
 ---
 
 ### 📫 Contact
